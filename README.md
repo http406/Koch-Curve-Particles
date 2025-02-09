@@ -215,7 +215,7 @@ class Particle {
 5. **Removes dead particles** when their lifetime reaches zero.
 
 
-## **Final Summary**
+## **Summarizing**
 1. **Generates a Koch fractal** with `iterations = 5`.
 2. **Divides each line segment into smaller parts recursively**.
 3. **Displays the fractal** with colored strokes.
